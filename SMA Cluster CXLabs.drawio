@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T13:39:40.410Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" etag="KDaO368nWJGGKdS1fvFp" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T13:40:05.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" etag="nH240Osfy0BSqVvVii0a" version="24.6.5" type="github">
   <diagram name="Page-1" id="tIi6XGk7Z42b94pc7ILP">
     <mxGraphModel dx="1306" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="yGkd1davA27l-2CEh0l2-109" value="Cluster - 1 Gbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="yGkd1davA27l-2CEh0l2-73" vertex="1" connectable="0">
           <mxGeometry x="0.6591" y="-2" relative="1" as="geometry">
-            <mxPoint x="-7" y="-8" as="offset" />
+            <mxPoint x="73" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_9Xhn7tCBY5-UeczWf9N-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yGkd1davA27l-2CEh0l2-76" target="_9Xhn7tCBY5-UeczWf9N-8">
@@ -57,11 +57,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yGkd1davA27l-2CEh0l2-81" value="Cluster - 1 Gbps" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="yGkd1davA27l-2CEh0l2-83" target="yGkd1davA27l-2CEh0l2-85" edge="1">
-          <mxGeometry x="0.6121" y="-21" relative="1" as="geometry">
+          <mxGeometry x="-0.375" y="-11" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="280" y="322" />
             </Array>
-            <mxPoint x="21" y="-21" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_9Xhn7tCBY5-UeczWf9N-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="yGkd1davA27l-2CEh0l2-83" target="_9Xhn7tCBY5-UeczWf9N-8">
@@ -99,7 +99,7 @@
         </mxCell>
         <mxCell id="yGkd1davA27l-2CEh0l2-112" value="Cluster - 10 Gbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="yGkd1davA27l-2CEh0l2-87" vertex="1" connectable="0">
           <mxGeometry x="-0.1742" relative="1" as="geometry">
-            <mxPoint x="-68" y="-8" as="offset" />
+            <mxPoint x="-4" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yGkd1davA27l-2CEh0l2-90" value="SMA5" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.malware_sandbox;" parent="1" vertex="1">
